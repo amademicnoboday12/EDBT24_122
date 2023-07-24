@@ -1,0 +1,4 @@
+pandas==1.4.3
+pathos==0.2.9
+setuptools==62.3.2
+tqdm==4.63.1
