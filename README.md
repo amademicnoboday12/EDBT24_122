@@ -36,7 +36,7 @@ Run `./generate_data_and_run_experiments.sh`. This will execute the folowing act
 
 The experiments produce log files recording raw features we defined in the technical report. The raw features are further post-processed and compressed in parquet files.
 
-Feature files can be found in `paper/result`. The notebook `paper/results/sigmod_exp.ipynb` contains the post processing code and the code for training the proposed cost model.
+Feature files can be found in `paper/result`. The notebook `paper/results/renewed_exp.ipynb` contains the post processing code and the code for training the proposed cost model.
 
 ### Real data results: Hamlet
 Run `run_hamlet_experiments.sh` which will run the experiments and write results to `./results/hamlet`
